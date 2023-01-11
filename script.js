@@ -1,8 +1,8 @@
 // complete the given function
 
 
-//const input = window.prompt();
-const input = "RaceCar";
+const input = window.prompt();
+//const input = "RaceCar";
 
 const str = input.toLowerCase();
 let palindromeStr = "";
